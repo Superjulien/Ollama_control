@@ -24,7 +24,7 @@ These scripts are designed to provide a user-friendly command-line interface for
 
 - **Operating System:** The script is designed to work on Linux systems.
 - **Python 3:** Ensure Python 3 is installed on your system as well.
-- **Ollama Installed:** Make sure you have installed and configured the Ollama server on your system before using this script.
+- **Ollama Installed:** Make sure you have installed and configured the Ollama server on your system before using this script. Visit [https://ollama.com/](https://ollama.com/) for more information.
 
 ## Installation
 
