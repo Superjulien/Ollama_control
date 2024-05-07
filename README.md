@@ -4,7 +4,7 @@
 
 ## Description
 
-These scripts are designed to provide a user-friendly command-line interface for controlling Ollama servers. This repository contains two scripts for controlling Ollama servers: one written in Bash (`control_ollama_forbash`) and the other written in sh (`control_ollama_forsh`). These scripts provide common tasks such as starting, stopping, updating, and launching specific models with Ollama servers, thus simplifying system management.
+These scripts are designed to provide a user-friendly command-line interface for controlling Ollama servers. This repository contains two scripts for controlling Ollama servers: one written in Bash (`ollama_control_forbash`) and the other written in sh (`ollama_control_forsh`). These scripts provide common tasks such as starting, stopping, updating, and launching specific models with Ollama servers, thus simplifying system management.
 
 ## Features
 
@@ -43,11 +43,11 @@ These scripts are designed to provide a user-friendly command-line interface for
 3. **Give Execution Rights to the Script:**
 
     ```bash
-    chmod +x control_ollama_forsh.sh
+    chmod +x ollama_control_forsh.sh
     ```
     or
     ```bash
-    chmod +x control_ollama_forbash.sh
+    chmod +x ollama_control_forbash.sh
     ```
 
 ## Usage
@@ -55,11 +55,11 @@ These scripts are designed to provide a user-friendly command-line interface for
 - **Run the Script:**
 
     ```bash
-    sudo sh control_ollama_forsh.sh
+    sudo sh ollama_control_forsh.sh
     ```
     or 
     ```bash
-    sudo bash control_ollama_forbash.sh
+    sudo bash ollama_control_forbash.sh
     ```
     
 - **Follow the on-screen instructions to choose from the available options.**
