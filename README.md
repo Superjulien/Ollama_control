@@ -1,6 +1,6 @@
 # Ollama Control
 
-[![Version bash](https://img.shields.io/badge/Version.bash-0.03-blue.svg)](https://github.com/Superjulien/Ollama_control) [![Version sh](https://img.shields.io/badge/Version.sh-0.06-blue.svg)](https://github.com/Superjulien/Ollama_control) [![License](https://img.shields.io/badge/License-GNU_GPLv3-blue.svg)](https://choosealicense.com/licenses/gpl-3.0/) [![Python](https://img.shields.io/badge/Python_3-14354C?&logo=python&logoColor=white.svg)](https://www.python.org/)
+[![Version bash](https://img.shields.io/badge/Version.bash-0.03-blue.svg)](https://github.com/Superjulien/Ollama_control) [![Version sh](https://img.shields.io/badge/Version.sh-0.06-blue.svg)](https://github.com/Superjulien/Ollama_control) [![License](https://img.shields.io/badge/License-GNU_GPLv3-blue.svg)](https://choosealicense.com/licenses/gpl-3.0/) [![Shell](https://img.shields.io/badge/Shell_Script-grey?&logo=gnu-bash&logoColor=white.svg)](https://en.wikipedia.org/wiki/Unix_shell)
 
 ## Description
 
@@ -23,7 +23,6 @@ These scripts are designed to provide a user-friendly command-line interface for
 ## Prerequisites
 
 - **Operating System:** The script is designed to work on Linux systems.
-- **Python 3:** Ensure Python 3 is installed on your system as well.
 - **Ollama Installed:** Make sure you have installed and configured the Ollama server on your system before using this script. Visit [https://ollama.com/](https://ollama.com/) for more information.
 
 ## Installation
