@@ -1,6 +1,6 @@
 # Ollama Control
 
-[![Version bash](https://img.shields.io/badge/Version.bash-0.03-blue.svg)](https://github.com/Superjulien/Ollama_control) [![Version sh](https://img.shields.io/badge/Version.sh-0.06-blue.svg)](https://github.com/Superjulien/Ollama_control) [![License](https://img.shields.io/badge/License-GNU_GPLv3-blue.svg)](https://choosealicense.com/licenses/gpl-3.0/) [![Shell](https://img.shields.io/badge/Shell_Script-grey?&logo=gnu-bash&logoColor=white.svg)](https://en.wikipedia.org/wiki/Unix_shell)
+[![Version bash](https://img.shields.io/badge/Version.bash-0.03-blue.svg)](https://github.com/Superjulien/Ollama_control) [![Version sh](https://img.shields.io/badge/Version.sh-0.06-blue.svg)](https://github.com/Superjulien/Ollama_control) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/) [![Shell](https://img.shields.io/badge/Shell_Script-grey?&logo=gnu-bash&logoColor=white.svg)](https://en.wikipedia.org/wiki/Unix_shell)
 
 ## Description
 
@@ -101,7 +101,7 @@ Every small gesture matters and contributes to making a real difference.
 
 ## License
 
-Ollama Control is open-source software released under the [GNU GPLv3 License](https://choosealicense.com/licenses/gpl-3.0/). This license allows users of this software to use it, modify it, distribute it, and share it freely while preserving transparency and collaboration.
+Ollama Control is open-source software released under the [MIT License](https://choosealicense.com/licenses/mit/). This license allows users of this software to use it, modify it, distribute it, and share it freely while preserving transparency and collaboration.
 
 ## Support
 For support email : 
